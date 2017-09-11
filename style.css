@@ -1,0 +1,342 @@
+h1 {
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	border-style: solid;
+	border-color: chartreuse;
+	background-color: white;
+	padding: 10px;
+}
+
+h1:hover {
+	background-color: yellow;
+}
+
+html, body {
+	background-color: lightblue;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 50%;
+	padding-bottom: 20px;
+}
+
+.text {
+	border-style: solid;
+	border-color: chartreuse;
+	font-size: 18px;
+	padding: 5px;
+	font-family: "Comic Sans MS", serif;
+	color: black;
+	background-color: white;
+	text-align: left;
+}
+
+.text:hover {
+	background-color: yellow;
+}
+
+.pic {
+	float: left;
+	height: 200px;
+	width: 200px;
+	margin: 15px;	
+}
+
+nav {
+	width: 100%
+	border-style: solid;
+	background-color: white;
+	list-style-type: none;
+	text-align: center;
+}
+
+nav:hover {
+	background-color: yellow;
+}
+
+li {
+	display: inline-block;
+	padding: 10px;
+	list-style-type: none;
+}
+
+.rick {
+	border-style: solid;
+	border-color: chartreuse;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 20px;
+	font-family: "Comic Sans MS", serif;
+	color: black;
+	background-color: white;
+	text-align: left;
+	float: left;
+}
+
+.rick:hover {
+	background-color: yellow;
+}
+
+.morty {
+	border-style: solid;
+	border-color: chartreuse;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 20px;
+	font-family: "Comic Sans MS", serif;
+	color: black;
+	background-color: white;
+	text-align: left;
+}
+
+.morty:hover {
+	background-color: yellow;
+}
+
+.summer {
+	border-style: solid;
+	border-color: chartreuse;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 20px;
+	font-family: "Comic Sans MS", serif;
+	color: black;
+	background-color: white;
+	text-align: left;
+}
+
+.summer:hover {
+	background-color: yellow;
+}
+
+.beth {
+	border-style: solid;
+	border-color: chartreuse;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 20px;
+	font-family: "Comic Sans MS", serif;
+	color: black;
+	background-color: white;
+	text-align: left;
+}
+
+.beth:hover {
+	background-color: yellow;
+}
+
+.jerry {
+	border-style: solid;
+	border-color: chartreuse;
+	font-size: 18px;
+	padding: 5px;
+	margin-bottom: 20px;
+	font-family: "Comic Sans MS", serif;
+	color: black;
+	background-color: white;
+	text-align: left;
+}
+
+.jerry:hover {
+	background-color: yellow;
+}
+
+.pilot {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.pilot:hover {
+	background-color: yellow;
+}
+
+.lawnmower {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.lawnmower:hover {
+	background-color: yellow;
+}
+
+.anatomy {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.anatomy:hover {
+	background-color: yellow;
+}
+
+.aliens {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.aliens:hover {
+	background-color: yellow;
+}
+
+.meeseeks {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.meeseeks:hover {
+	background-color: yellow;
+}
+
+.potion {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.potion:hover {
+	background-color: yellow;
+}
+
+.raising {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.raising:hover {
+	background-color: yellow;
+}
+
+.rixty {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.rixty:hover {
+	background-color: yellow;
+}
+
+.something {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.something:hover {
+	background-color: yellow;
+}
+
+.close {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.close:hover {
+	background-color: yellow;
+}
+
+.ricksy {
+	font-size: 15px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: chartreuse;
+	color: black;
+	background-color: white;
+	font-family: "Comic Sans MS", serif;
+	text-align: left;
+	float: left;
+}
+
+.ricksy:hover {
+	background-color: yellow;
+}
+
+.clear {
+	clear: both;
+}
+
+@media all and (max-width: 600px) {
+	body {
+	background-color: orange;
+	}
+}
